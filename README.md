@@ -4,3 +4,8 @@
 ## 1 : Calculator
 Write a calculator that can handle the following operations : addition, subtraction, multiplication, division, modularity, exponentiation.
 The calculator must handle operator priority and deal with parentheses.
+
+Concepts : parsing, stacks.
+
+GUI : None.
+
